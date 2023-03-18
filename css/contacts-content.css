@@ -1,0 +1,26 @@
+.contacts-content h2{
+    padding: 111px 0px 62px;
+}
+.contacts-content p{
+    padding: 42px 0px 0px;
+}
+.contacts-content__table{
+    margin: 0px auto;
+}
+.contacts-content__table__left-cell, .contacts-content__table__right-cell{
+    margin: 36px 15px 0px;
+    width: 571px;
+}
+
+.contacts-content__table__left-cell__group__item {   
+    height: 88px;
+    padding-top: 53px;
+}
+.contacts-content__table__right-cell{
+    padding-top: 53px;
+    height: 264px
+}
+.contacts-content__btn-wrapper{
+    width: 370px;
+    margin: 53px auto 50px; 
+}

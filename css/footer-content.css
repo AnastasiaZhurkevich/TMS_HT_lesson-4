@@ -1,0 +1,19 @@
+.footer-content{
+    width: 1510px;
+    height: 164px;
+    background-color: black;
+    margin: 0px auto;
+}
+.footer-content__table{
+    margin: 0px auto;
+}
+.footer-content__table__row__icon-wrapper{
+    margin: 31px 26px 24px;
+}
+.footer-content p{
+    font-family: 'Raleway Regular', sans-serif;
+    font-size: 18px;
+    line-height: 21px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.5);
+}

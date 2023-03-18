@@ -1,0 +1,30 @@
+.prototype-content{
+    width: 1510px;
+    height: 442px;
+    background: url("../img/prototype.png") 0px 0px no-repeat;
+    margin: 0px auto;        
+}
+.prototype-content h2 {
+    font-family: 'Raleway Regular', sans-serif;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 110px 0px 53px;
+}
+.prototype-content hr{   
+    margin: 0 auto;
+}
+.prototype-content p{
+    font-family: 'Raleway Regular', sans-serif;   
+    font-size: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 40px 0px 63px;
+}
+.prototype-content__btn-wrapper{
+    margin: 0px auto;
+    padding-top: 16px;      
+}
+
+
